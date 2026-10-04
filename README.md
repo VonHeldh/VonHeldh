@@ -1,27 +1,80 @@
-## <img align="center" alt="VonHeldh-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"> Olá! Eu sou o Von Heldh, e sou programador full stack! <img align="center" alt="VonHeldh-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
+<div align="center">
 
-![VonHeldh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VonHeldh&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VonHeldh&hide_progress=true&theme=dracula)
+  # Olá, eu sou o Von Heldh 👋
+  ### Desenvolvedor Full Stack
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="VonHeldh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="VonHeldh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="VonHeldh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="VonHeldh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="VonHeldh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="VonHeldh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="VonHeldh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="VonHeldh-pic" height="150" style="border-radius:50px;" src="https://static1.purebreak.com.br/articles/0/49/71/0/@/216582-gravacoes-de-deadpool-2-devem-comecar-200x200-3.jpg">
+  <p align="center">
+    Apaixonado por transformar ideias em código limpo, escalável e interfaces intuitivas.
+  </p>
+
+  <!-- Badges de Contato Rápido -->
+  <a href="https://www.linkedin.com/in/vonheldh-45875016a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:danielvhcosta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/vonheldh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/vonheldh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.tiktok.com/@vonheldh" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:danielvhcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vonheldh-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+---
+
+### 🚀 Sobre Mim
+
+- 💻 Atuo no desenvolvimento de aplicações **Full Stack** com foco em experiência do usuário e boas práticas de arquitetura.
+- 🛠️ Experiência com o ecossistema moderno de **JavaScript / TypeScript**, **React**, **Node.js**, **Python** e **C#**.
+- 🎯 Buscando constantemente aprimorar soluções e construir software performático e sustentável.
+
+---
+
+### 🛠️ Tecnologias & Habilidades
+
+<p align="left">
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+
+  <!-- Backend & Linguagens -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VonHeldh&show_icons=true&hide_rank=true&theme=tokyonight&border_radius=8" alt="Estatísticas do GitHub" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonHeldh&layout=compact&theme=tokyonight&border_radius=8" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 🌐 Onde me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vonheldh-45875016a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:danielvhcosta@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/vonheldh" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/vonheldh" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@vonheldh" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 </div>
