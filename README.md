@@ -16,11 +16,7 @@
     &nbsp;<b>Rio de Janeiro, Brasil</b>
   </p>
 
-  <!-- Status Comercial no Verde do Perfil -->
-  <img src="https://img.shields.io/badge/Status-🟢_Disponível_para_Projetos-0d1117?style=flat-square&labelColor=161b22&color=44b444" alt="Status" />
-  <img src="https://img.shields.io/badge/Foco-Full_Stack_Development-0d1117?style=flat-square&labelColor=161b22&color=44b444" alt="Foco" />
-
-  <br /><br />
+  <br />
 
   <!-- Redes Sociais Minimalistas -->
   <p>
