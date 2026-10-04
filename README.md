@@ -11,12 +11,12 @@
   <br /><br />
 
   <!-- Status Comercial -->
-  <img src="https://img.shields.io/badge/Status-🟢_Disponível_para_Projetos-0f172a?style=flat-square&labelColor=0284c7&color=0ea5e9" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-🟢_Disponível_para_Projetos-0f172a?style=flat-square&labelColor=22c55e&color=16a34a" alt="Status" />
   <img src="https://img.shields.io/badge/Foco-Full_Stack_Development-0f172a?style=flat-square&labelColor=1e293b&color=334155" alt="Foco" />
 
   <br /><br />
 
-  <!-- Redes Sociais Minimalistas e Sem Quebras -->
+  <!-- Redes Sociais Minimalistas -->
   <p>
     <a href="https://www.linkedin.com/in/vonheldh-45875016a" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="22" height="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:danielvhcosta@gmail.com"><img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="22" height="22" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://api.iconify.design/simple-icons:discord.svg?color=white" width="22" height="22" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="22" height="22" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="22" height="22" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:tiktok.svg?color=white" width="22" height="22" alt="TikTok" /></a>
   </p>
@@ -56,14 +56,29 @@ Construo soluções digitais de alto impacto que unem estética, velocidade e c�
 
 ---
 
+### 🏆 Premiações, Certificações & Serviços Realizados
+
+<!-- Área manual para você adicionar suas conquistas e serviços entregues -->
+
+| Ano | Título da Conquista / Serviço | Cliente / Instituição | Descrição do Impacto |
+| :---: | :--- | :--- | :--- |
+| **2024** | 🥇 *Premiação / Destaque Técnico* | *Empresa ou Evento* | Solução desenvolvida com foco em inovação e alta performance. |
+| **2024** | 💼 *Desenvolvimento Web Full Stack* | *Cliente / Freelance* | Entrega de plataforma web completa, responsiva e integrada a APIs. |
+| **2023** | 📜 *Certificação em Desenvolvimento Web* | *Instituição de Ensino* | Validação prática em arquitetura front-end e boas práticas de código. |
+
+---
+
 ### 📊 Métricas & Atividade Técnica
 
 <div align="center">
+  <!-- Streak Stats atualizado com dados globais -->
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=VonHeldh&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak de Commits" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=VonHeldh&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
+  <!-- GitHub Stats com histórico completo de commits e suporte a repositórios privados -->
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=VonHeldh&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
 </div>
 
 <div align="center" style="margin-top: 12px;">
+  <!-- Linguagens mais utilizadas compiladas com precisão -->
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonHeldh&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Linguagens Mais Utilizadas" />
 </div>
 
