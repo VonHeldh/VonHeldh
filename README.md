@@ -61,7 +61,7 @@
 
 ### 🌐 Onde me encontrar
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vonheldh-45875016a" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/white" width="26" height="26" alt="LinkedIn" />
   </a>
