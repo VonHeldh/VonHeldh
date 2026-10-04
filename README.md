@@ -3,20 +3,16 @@
   <!-- Nome Principal -->
   <h1>Von Heldh</h1>
 
-  <!-- Efeito Interativo de Digitação (Frases Atualizadas) -->
+  <!-- Texto Animado com Altura Compacta (height=30) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=20&pause=1000&color=44B444&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full+Stack;Solu%C3%A7%C3%B5es+Web+e+Escal%C3%A1veis;Dispon%C3%ADvel+para+Novos+Projetos+%26+Freelas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=19&pause=1000&color=44B444&center=true&vCenter=true&width=500&height=30&lines=Desenvolvedor+Full+Stack;Solu%C3%A7%C3%B5es+Web+e+Escal%C3%A1veis;Dispon%C3%ADvel+para+Novos+Projetos+%26+Freelas" alt="Typing SVG" />
   </a>
 
-  <br /><br />
-
-  <!-- Localização com Bandeira do Brasil em SVG -->
+  <!-- Localização próxima e alinhada -->
   <p>
-    <img src="https://api.iconify.design/circle-flags:br.svg" width="18" height="18" alt="Brasil" style="vertical-align: middle;" />
+    <img src="https://api.iconify.design/circle-flags:br.svg" width="16" height="16" alt="Brasil" style="vertical-align: middle;" />
     &nbsp;<b>Rio de Janeiro, Brasil</b>
   </p>
-
-  <br />
 
   <!-- Redes Sociais Minimalistas -->
   <p>
