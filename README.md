@@ -3,12 +3,12 @@
   <!-- Nome Principal -->
   <h1>Von Heldh</h1>
 
-  <!-- Texto Animado com Altura Compacta (height=30) -->
+  <!-- Texto Animado com Altura Compacta -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=19&pause=1000&color=44B444&center=true&vCenter=true&width=500&height=30&lines=Desenvolvedor+Full+Stack;Solu%C3%A7%C3%B5es+Web+e+Escal%C3%A1veis;Dispon%C3%ADvel+para+Novos+Projetos+%26+Freelas" alt="Typing SVG" />
   </a>
 
-  <!-- Localização próxima e alinhada -->
+  <!-- Localização com Bandeira do Brasil em SVG -->
   <p>
     <img src="https://api.iconify.design/circle-flags:br.svg" width="16" height="16" alt="Brasil" style="vertical-align: middle;" />
     &nbsp;<b>Rio de Janeiro, Brasil</b>
@@ -16,7 +16,7 @@
 
   <!-- Redes Sociais Minimalistas -->
   <p>
-    <a href="https://www.linkedin.com/in/vonheldh-45875016a" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="22" height="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:danielvhcosta@gmail.com"><img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="22" height="22" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://api.iconify.design/simple-icons:discord.svg?color=white" width="22" height="22" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="22" height="22" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="22" height="22" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:tiktok.svg?color=white" width="22" height="22" alt="TikTok" /></a>
+    <a href="https://www.linkedin.com/in/vonheldh/" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="22" height="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:danielvhcosta@gmail.com"><img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="22" height="22" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://api.iconify.design/simple-icons:discord.svg?color=white" width="22" height="22" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="22" height="22" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="22" height="22" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:tiktok.svg?color=white" width="22" height="22" alt="TikTok" /></a>
   </p>
 
 </div>
@@ -82,7 +82,7 @@
 ### 📊 Métricas & Atividade Técnica
 
 <div align="center">
-  <!-- Streak Stats sincronizado com o fundo #0d1117 e anel verde #44b444 -->
+  <!-- Streak Stats sincronizado com fundo #0d1117 e anel verde #44b444 -->
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=VonHeldh&background=0D1117&ring=44B444&fire=44B444&currStreakNum=44B444&currStreakLabel=44B444&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&hide_border=true&border_radius=8" alt="Streak de Commits" />
   <!-- GitHub Stats com fundo #0d1117, títulos e ícones em #44b444 -->
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=VonHeldh&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=44b444&icon_color=44b444&text_color=c9d1d9&hide_border=true&border_radius=8" alt="GitHub Stats" />
@@ -97,6 +97,6 @@
 
 ### 📩 Vamos Iniciar um Projeto Juntos?
 
-- 💼 **LinkedIn:** [linkedin.com/in/vonheldh](https://www.linkedin.com/in/vonheldh-45875016a)
+- 💼 **LinkedIn:** [linkedin.com/in/vonheldh](https://www.linkedin.com/in/vonheldh/)
 - ✉️ **E-mail:** [danielvhcosta@gmail.com](mailto:danielvhcosta@gmail.com)
 - 💬 **Discord:** [Conectar via Discord](https://discord.gg/wagxzStdcR)
