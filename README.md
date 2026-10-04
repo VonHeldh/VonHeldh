@@ -61,28 +61,6 @@
 
 ### 🌐 Onde me encontrar
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vonheldh-45875016a" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/white" width="26" height="26" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:danielvhcosta@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/white" width="26" height="26" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/wagxzStdcR" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/white" width="26" height="26" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/vonheldh" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/white" width="26" height="26" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/vonheldh" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/white" width="26" height="26" alt="X / Twitter" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@vonheldh" target="_blank">
-    <img src="https://cdn.simpleicons.org/tiktok/white" width="26" height="26" alt="TikTok" />
-  </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vonheldh-45875016a" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="24" height="24" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:danielvhcosta@gmail.com"><img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="24" height="24" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://api.iconify.design/simple-icons:discord.svg?color=white" width="24" height="24" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="24" height="24" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="24" height="24" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@vonheldh" target="_blank"><img src="https://api.iconify.design/simple-icons:tiktok.svg?color=white" width="24" height="24" /></a>
 </p>
