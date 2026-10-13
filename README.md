@@ -30,15 +30,15 @@
 
 ### 💼 O Que Eu Faço & Soluções
 
-<!-- Cards Visuais em SVG com Bordas Arredondadas e Contorno Verde #44b444 -->
+<!-- Cards Visuais em SVG com Bordas Arredondadas (100% Estáveis) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,100:0d1117&height=85&text=%F0%9F%8C%90%20Desenvolvimento%20Full%20Stack&fontSize=20&fontColor=44b444&fontAlignY=36&desc=Aplica%C3%A7%C3%B5es%20web%20robustas%20e%20escal%C3%A1veis%20com%20React%2C%20Node.js%20e%20TypeScript&descSize=13&descAlignY=66&stroke=44b444&strokeWidth=1" width="100%" alt="Card Full Stack" />
+  <img src="https://img.shields.io/badge/Full_Stack_Development-Aplica%C3%A7%C3%B5es_Web_Escal%C3%A1veis_com_React_%E2%80%A2_Node.js_%E2%80%A2_TypeScript-0d1117?style=for-the-badge&logo=codeforces&logoColor=44b444&labelColor=161b22" alt="Full Stack" />
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,100:0d1117&height=85&text=%E2%9A%A1%20APIs%20RESTful%20%26%20Microsservi%C3%A7os&fontSize=20&fontColor=44b444&fontAlignY=36&desc=Arquitetura%20backend%20de%20alto%20rendimento%20com%20Python%2C%20C%23%20e%20bancos%20de%20dados&descSize=13&descAlignY=66&stroke=44b444&strokeWidth=1" width="100%" alt="Card Backend" />
+  <img src="https://img.shields.io/badge/APIs_&_Microsservi%C3%A7os-Backend_de_Alto_Rendimento_com_Python_%E2%80%A2_C%23_%E2%80%A2_SQL-0d1117?style=for-the-badge&logo=fastapi&logoColor=44b444&labelColor=161b22" alt="Backend" />
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,100:0d1117&height=85&text=%F0%9F%8E%AF%20Landing%20Pages%20%26%20UI%2FUX&fontSize=20&fontColor=44b444&fontAlignY=36&desc=P%C3%A1ginas%20modernas%20de%20alta%20convers%C3%A3o%20com%20tempo%20m%C3%ADnimo%20de%20carregamento&descSize=13&descAlignY=66&stroke=44b444&strokeWidth=1" width="100%" alt="Card Landing Pages" />
+  <img src="https://img.shields.io/badge/Landing_Pages_&_UI%2FUX-P%C3%A1ginas_de_Alta_Convers%C3%A3o_e_M%C3%A1xima_Velocidade-0d1117?style=for-the-badge&logo=speedtest&logoColor=44b444&labelColor=161b22" alt="Landing Pages" />
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,100:0d1117&height=85&text=%F0%9F%A4%96%20Automa%C3%A7%C3%B5es%20%26%20Intelig%C3%AAncia%20Artificial&fontSize=20&fontColor=44b444&fontAlignY=36&desc=Integra%C3%A7%C3%A3o%20de%20LLMs%2C%20scripts%20inteligentes%20e%20fluxos%20automatizados&descSize=13&descAlignY=66&stroke=44b444&strokeWidth=1" width="100%" alt="Card IA" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%B5es_&_IA-Integra%C3%A7%C3%A3o_de_LLMs_%E2%80%A2_Scripts_Inteligentes-0d1117?style=for-the-badge&logo=openai&logoColor=44b444&labelColor=161b22" alt="IA" />
 </p>
 
 ---
