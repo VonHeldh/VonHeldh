@@ -1,12 +1,9 @@
 <div align="center">
 
-  <!-- Header Dinâmico em SVG com Onda Fluida e Tipografia Moderna -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,161b22,44b444,10&height=170&section=header&text=Von%20Heldh&fontSize=40&fontAlignY=36&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Header Von Heldh" />
+  <!-- Header em SVG no Verde do Perfil (#44b444) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=44b444&height=180&section=header&text=Von%20Heldh&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Von Heldh" />
 
-  <!-- Efeito Interativo de Digitação -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=19&pause=1000&color=44B444&center=true&vCenter=true&width=500&height=30&lines=Desenvolvedor+Full+Stack;Solu%C3%A7%C3%B5es+Web+e+Escal%C3%A1veis;Dispon%C3%ADvel+para+Novos+Projetos+%26+Freelas" alt="Typing SVG" />
-  </a>
+  <br />
 
   <!-- Localização com Bandeira do Brasil em SVG -->
   <p>
@@ -27,66 +24,22 @@
 <br />
 
 > [!TIP]
-> **Aberto para parcerias e projetos sob demanda:** Desenvolvimento de plataformas web, sistemas de alta performance, integrações com APIs e soluções completas ponta a ponta.
+> **Disponível para novos projetos e contratações:** Desenvolvimento de aplicações web completas, interfaces de alta performance e microsserviços escaláveis.
 
 ---
 
-### 🚀 Projetos & Soluções em Destaque
+### 💼 O Que Eu Faço & Soluções
 
-<!-- Vitrine Modular em Cards Interativos (Preencha com seus projetos futuros) -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🌐 Aplicação Web SaaS</h3>
-      <p align="left">Plataforma web escalável com autenticação, dashboard analítico e integração em tempo real.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-      <p align="left">
-        <a href="https://github.com/VonHeldh"><b>Ver Repositório →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚡ APIs & Microsserviços</h3>
-      <p align="left">Arquitetura backend de alto rendimento focada em processamento assíncrono e segurança.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-0284c7?style=flat-square" />
-      </p>
-      <p align="left">
-        <a href="https://github.com/VonHeldh"><b>Ver Repositório →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🎯 Landing Pages de Conversão</h3>
-      <p align="left">Interfaces modernas e responsivas, otimizadas para pontuação máxima de SEO e velocidade de carregamento.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/UI%2FUX-44b444?style=flat-square" />
-      </p>
-      <p align="left">
-        <a href="https://github.com/VonHeldh"><b>Ver Repositório →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🤖 Automações & Inteligência Artificial</h3>
-      <p align="left">Fluxos inteligentes para automação de tarefas manuais, scripts de produtividade e consumo de LLMs.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-      <p align="left">
-        <a href="https://github.com/VonHeldh"><b>Ver Repositório →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- Cards Visuais em SVG com Bordas Arredondadas e Contorno Verde #44b444 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,100:0d1117&height=85&text=%F0%9F%8C%90%20Desenvolvimento%20Full%20Stack&fontSize=20&fontColor=44b444&fontAlignY=36&desc=Aplica%C3%A7%C3%B5es%20web%20robustas%20e%20escal%C3%A1veis%20com%20React%2C%20Node.js%20e%20TypeScript&descSize=13&descAlignY=66&stroke=44b444&strokeWidth=1" width="100%" alt="Card Full Stack" />
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,100:0d1117&height=85&text=%E2%9A%A1%20APIs%20RESTful%20%26%20Microsservi%C3%A7os&fontSize=20&fontColor=44b444&fontAlignY=36&desc=Arquitetura%20backend%20de%20alto%20rendimento%20com%20Python%2C%20C%23%20e%20bancos%20de%20dados&descSize=13&descAlignY=66&stroke=44b444&strokeWidth=1" width="100%" alt="Card Backend" />
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,100:0d1117&height=85&text=%F0%9F%8E%AF%20Landing%20Pages%20%26%20UI%2FUX&fontSize=20&fontColor=44b444&fontAlignY=36&desc=P%C3%A1ginas%20modernas%20de%20alta%20convers%C3%A3o%20com%20tempo%20m%C3%ADnimo%20de%20carregamento&descSize=13&descAlignY=66&stroke=44b444&strokeWidth=1" width="100%" alt="Card Landing Pages" />
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:161b22,100:0d1117&height=85&text=%F0%9F%A4%96%20Automa%C3%A7%C3%B5es%20%26%20Intelig%C3%AAncia%20Artificial&fontSize=20&fontColor=44b444&fontAlignY=36&desc=Integra%C3%A7%C3%A3o%20de%20LLMs%2C%20scripts%20inteligentes%20e%20fluxos%20automatizados&descSize=13&descAlignY=66&stroke=44b444&strokeWidth=1" width="100%" alt="Card IA" />
+</p>
 
 ---
 
@@ -133,7 +86,7 @@
 </div>
 
 <div align="center" style="margin-top: 12px;">
-  <!-- Linguagens mais utilizadas com a paleta verde e fundo escuro -->
+  <!-- Linguagens com a mesma paleta verde e fundo escuro -->
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonHeldh&layout=compact&bg_color=0d1117&title_color=44b444&text_color=c9d1d9&hide_border=true&border_radius=8" alt="Linguagens Mais Utilizadas" />
 </div>
 
@@ -148,6 +101,6 @@
 <br />
 
 <div align="center">
-  <!-- Rodapé Ondulado com Encerramento Suave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,161b22,44b444,10&height=80&section=footer" width="100%" alt="Footer Wave" />
+  <!-- Rodapé Ondulado com o Verde do Perfil -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=44b444&height=80&section=footer" width="100%" alt="Footer Wave" />
 </div>
